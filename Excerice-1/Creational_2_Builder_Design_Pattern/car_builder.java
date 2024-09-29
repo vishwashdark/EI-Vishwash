@@ -19,7 +19,9 @@ public class car_builder {
         this.topSpeed = topSpeed;
         return this;
     }
-    public static car buildCar(String model, String color, int year, int topSpeed) {
-        return new car(model, color, year, topSpeed);
+    @Override
+    public String toString() {
+        return "Car_builder [model=" + model + ", color=" + color + ", year=" + year + ", topSpeed=" + topSpeed
+                + "]";
     }
 }
