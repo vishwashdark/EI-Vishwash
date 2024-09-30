@@ -1,3 +1,3 @@
 public interface Orientation {
-    void rotate();
+    public void rotate();
 }
