@@ -1,5 +1,5 @@
 public class Phones {
-    private String model;
+
     private String weatherUpdate;
 
     public void update(String weather) {

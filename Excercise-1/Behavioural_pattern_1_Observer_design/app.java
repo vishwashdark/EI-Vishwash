@@ -5,7 +5,6 @@ public class app {
         Phones phone2 = new Phones();
         weatherChannel.addPhone(phone1);
         weatherChannel.addPhone(phone2);
-
-        weatherChannel.update("sunny");
+        weatherChannel.update("rainy");
     }   
 }
