@@ -62,6 +62,8 @@ javac main.java
 java main
 ```
 
+## Output
+
 ![Program Running](image.png)
 
 
