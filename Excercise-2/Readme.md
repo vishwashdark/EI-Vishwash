@@ -55,7 +55,14 @@ collectData()
 ## Executing the code
 
 ```plaintext 
-javac main.java ```  
+javac main.java 
+```  
+
+```plaintext
+java main
+```
+
+
 
 
 
