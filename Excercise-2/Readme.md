@@ -62,6 +62,8 @@ javac main.java
 java main
 ```
 
+![Program Running](image.png)
+
 
 
 
