@@ -49,3 +49,9 @@ The series of commands should be executed in a sequential manner over the initia
 rotate(South)
 activatePanels()
 collectData()
+
+### **How to Run:**
+
+Run the `main.class` file.
+
+
