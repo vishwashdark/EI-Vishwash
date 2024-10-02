@@ -41,11 +41,21 @@ Structural Design Patterns:
 - **Team Rover**  
   *CS/AI Subsystem Lead* (2023 - Present)
 
+## Publications
+- **Detecting Plant Diseases at Scale**  
+  Presented at *ICMLDE, Procedia Computer Science Journal*, Sept 2023  
+  Developed a CNN model with PySpark for plant disease detection, achieving 95.76% accuracy.
+
+- **Exploring Sarcasm Detection**  
+  Presented at *CONIT International Conference on Intelligent Technologies*, June 2024  
+  Achieved 92% accuracy and F1 score of 0.91 using BERT embeddings for sarcasm detection.
+
 ## Projects
-- **Plant Disease Detection**  
-  Developed a CNN with PySpark, 95.76% accuracy.  
-- **Sarcasm Detection**  
-  Achieved 92% accuracy using BERT embeddings.
+- **Lung Pneumonia and Skin Cancer Detection**  
+  Created a Python-based GUI using Keras and TensorFlow for detecting pneumonia.
+
+- **Decentralized Health: Federated Learning for Cervical Cytology**  
+  Implemented Federated Learning with CNN on the Cx-22 dataset for cervical cytology image segmentation.
 
 ## Skills
 - Python, Java, PySpark, TensorFlow, Keras, Sklearn  
