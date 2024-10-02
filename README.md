@@ -3,7 +3,7 @@ Set of Tasks Given by EI for Various Rounds of Interviews.
 
 Tasks Done 
 
-Excercise 1 - 
+# Excercise 1 - 
 
 Behavioural Design Patterns:
 ```plaintext
@@ -22,6 +22,13 @@ Structural Design Patterns:
 2. Composite
 ```
 
+# Excercise 2 -
+
+Satellite Command System Programming Exercise
+
+## Problem Statement
+
+```You are tasked with developing a Satellite Command System that simulates controlling a satellite in orbit. The satellite starts in a default initial state and can accept a series of commands to change its orientation, solar panel status, and data collection.```
 
 
 # Vishwash Sharma
