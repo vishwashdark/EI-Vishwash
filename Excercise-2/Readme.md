@@ -52,6 +52,10 @@ collectData()
 ```
 
 --
-## Functional Requirements
+## Executing the code
+
+```plain text javac main.java ```  
+
+
 
 
