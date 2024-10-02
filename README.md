@@ -5,17 +5,18 @@ Tasks Done
 
 Excercise 1 - 
 
-***Behavioural Design Patterns:
+Behavioural Design Patterns:
+```plaintext
 1. Observer
 2. Template Method
-
+```
 Creational Design Patterns:
 1. Factory
 2. Builder Design Pattern
 
 Structural Design Patterns:
 1. Adapter
-2. Composite***
+2. Composite
 
 
 
