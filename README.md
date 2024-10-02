@@ -11,12 +11,16 @@ Behavioural Design Patterns:
 2. Template Method
 ```
 Creational Design Patterns:
+```plaintext
 1. Factory
 2. Builder Design Pattern
+```
 
 Structural Design Patterns:
+```plaintext
 1. Adapter
 2. Composite
+```
 
 
 
