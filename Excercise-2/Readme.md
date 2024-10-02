@@ -52,8 +52,4 @@ collectData()
 
 ---
 
-### **How to Run:**
-
-Run the `main.class` file.
-
 
